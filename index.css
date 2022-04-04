@@ -1,8 +1,7 @@
 body {
     margin: 0;
-    padding: 10px;
+    padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    min-width: 400px;
 }
 
 h1{
@@ -12,7 +11,7 @@ h1{
 }
 
 input {
-    width: 100%;
+    width: 220px;
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #000000;
